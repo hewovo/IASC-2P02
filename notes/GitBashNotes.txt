@@ -8,6 +8,12 @@ cd = change directory
 . = current location
 .. = go back up one higher higharchy
 
+git log = view recent activities
+
+git status = refresh git to update all changes
+
+
+-----
 
 hw18pp@LABS-WP63784 MINGW32 ~
 $ cd Desktop/
@@ -20,3 +26,47 @@ hw18pp@LABS-WP63784 MINGW32 ~/Desktop
 $ cd ..
 
 hw18pp@LABS-WP63784 MINGW32 ~
+
+-----
+
+hw18pp@LABS-WP63784 MINGW32 ~
+$ git clone https://github.com/hewovo/IASC-2P02.git
+Cloning into 'IASC-2P02'...
+remote: Enumerating objects: 29, done.
+remote: Counting objects: 100% (29/29), done.
+remote: Compressing objects: 100% (21/21), done.
+remote: Total 29 (delta 4), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (29/29), done.
+
+hw18pp@LABS-WP63784 MINGW32 ~
+$ cd IASC-2P02/
+
+hw18pp@LABS-WP63784 MINGW32 ~/IASC-2P02 (master)
+$ ls
+_config.yml  images/  notes/  README.md
+
+hw18pp@LABS-WP63784 MINGW32 ~/IASC-2P02 (master)
+$ cat README.md
+# IASC-2P02
+
+## About me
+
+Im very lost. my boi Alex Christie is telling me how to do this github thag but i dont really know what hes talking about.
+I am trying my best.
+
+Heres a picture of a beautiful shark boi
+
+![](images/shark.jpg)
+
+## Blog Post
+
+my blog post...
+
+-----
+
+hw18pp@LABS-WP63784 MINGW32 ~/IASC-2P02 (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
