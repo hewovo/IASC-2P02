@@ -1,0 +1,22 @@
+pwd = print working directory
+brings you to where you are currently
+
+ls = list folder
+
+cd = change directory
+
+. = current location
+.. = go back up one higher higharchy
+
+
+hw18pp@LABS-WP63784 MINGW32 ~
+$ cd Desktop/
+
+hw18pp@LABS-WP63784 MINGW32 ~/Desktop
+$ pwd
+/c/Users/hw18pp/Desktop
+
+hw18pp@LABS-WP63784 MINGW32 ~/Desktop
+$ cd ..
+
+hw18pp@LABS-WP63784 MINGW32 ~
