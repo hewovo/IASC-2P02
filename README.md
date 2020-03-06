@@ -13,7 +13,7 @@ Heres a picture of a beautiful shark boi
 
 my blog post...
 
-![](blog.md)
+Heres my [blog post](blog)
 
 <!--	Exported from Voyant Tools (voyant-tools.org).
 The iframe src attribute below uses a relative protocol to better function with both
