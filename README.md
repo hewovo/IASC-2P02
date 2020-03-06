@@ -13,6 +13,8 @@ Heres a picture of a beautiful shark boi
 
 my blog post...
 
+![](blog.md)
+
 <!--	Exported from Voyant Tools (voyant-tools.org).
 The iframe src attribute below uses a relative protocol to better function with both
 http and https sites, but if you're embedding this into a local web page (file protocol)
