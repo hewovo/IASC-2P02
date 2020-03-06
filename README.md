@@ -16,7 +16,7 @@ my blog post...
 Heres my [blog post](blog.md)
 
 
-<iframe style"width: 100%; height: 1000px;" src="processing/index.html"><iframe>
+
 
 
 
