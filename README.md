@@ -6,7 +6,7 @@ I'm a secnd year IASC student at Brock
 
 Heres a gif of a basking shark
 
-![](images/BaskingShark.gif)
+![](images/FeedingBaskingShark.gif)
 
 ## Blog Post
 
