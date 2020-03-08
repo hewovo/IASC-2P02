@@ -23,3 +23,6 @@ The main difference between normal data and capta is that data are given and cap
 As the digital age progresses, most of the data we humanities scholars would encounter during our studies are no longer just text-based data, Critical thinking and critical literacy extend beyond the reading and writing of the text. Visualization can create academic arguments, they are evolving to multimodal media alongside the digital world. Digital humanities scholarship should increasingly create multimodal scholarship where readers interpret both the text and any other media because multimodal media require interpreters or readers to interpret and understand the different modes of meaning when we come across these new forms of data.  
  
 Effective data visualization is a crucial step in data analysis. Without it, important insights and messages can be lost. Though data visualization we can determine whether the visual is applicable for humanities studies or studies of science by analyzing and review the visual to see if those data had been broken down and reconstructed through a humanistic mindset as capta. 
+
+Heres my [Work Cited](WorkCited.md) page
+Go back to [home](ReadMe.md)
