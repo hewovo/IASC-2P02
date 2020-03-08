@@ -1,9 +1,10 @@
 ## About me
 
-Im very lost. my boi Alex Christie is telling me how to do this github thag but i dont really know what hes talking about.
-I am trying my best.
+Hi, My name is Helen Wong and you're reading my bio.
 
-Heres a picture of a beautiful shark boi
+I'm a secnd year IASC student at Brock
+
+Heres a picture of a beautiful shark
 
 ![](images/shark.jpg)
 
