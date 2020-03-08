@@ -11,9 +11,7 @@ Heres a picture of a beautiful shark boi
 
 ## Blog Post
 
-my blog post...
-
-Heres my [blog post](blog.md)
+Read my [blog post](blog.md)
 
 
 
