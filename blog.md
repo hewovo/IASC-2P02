@@ -25,4 +25,6 @@ As the digital age progresses, most of the data we humanities scholars would enc
 Effective data visualization is a crucial step in data analysis. Without it, important insights and messages can be lost. Though data visualization we can determine whether the visual is applicable for humanities studies or studies of science by analyzing and review the visual to see if those data had been broken down and reconstructed through a humanistic mindset as capta. 
 
 Heres my [Work Cited](WorkCited.md) page
-Go back to [home](ReadMe.md)
+
+
+## Go back to [home](README.md)
