@@ -10,7 +10,7 @@ Heres a gif of a basking shark
 
 ## Blog Post
 
-Read my [blog post](blog.md)
+Read my blog post [here](blog.md)
 
 
 
